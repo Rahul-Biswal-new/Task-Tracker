@@ -5,11 +5,13 @@
 /tmp
 /out-tsc
 /bazel-out
+/01notes.txt
 
 # Node
 /node_modules
 npm-debug.log
 yarn-error.log
+/01notes.txt
 
 # IDEs and editors
 .idea/
@@ -19,6 +21,7 @@ yarn-error.log
 *.launch
 .settings/
 *.sublime-workspace
+/01notes.txt
 
 # Visual Studio Code
 .vscode/*
@@ -40,3 +43,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/01notes.txt
